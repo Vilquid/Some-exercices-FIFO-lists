@@ -1,0 +1,3 @@
+D:/Documents/Bureau/ISEN/CIN 3/C/TD/TD5 - Memos textes/cmake-build-debug/CMakeFiles/TD5___Memos_textes.dir
+D:/Documents/Bureau/ISEN/CIN 3/C/TD/TD5 - Memos textes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/Bureau/ISEN/CIN 3/C/TD/TD5 - Memos textes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

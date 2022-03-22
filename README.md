@@ -31,7 +31,7 @@ Il s’agit d'un programme en CLI qui permet les actions suivantes :
 - Sauvegarder la file des mémos
 - Charger la file des mémos
 
-Une Tfile gèrer la liste des messages. Chaque fois qu’on enregistre un mémo, il est ajouté dans la Tfile suivant le principe FIFO. Chaque fois qu’on lit un mémo, il est supprimé de la file Tfile FIFO.
+Une Tfile gère la liste des messages. Chaque fois qu’on enregistre un mémo, il est ajouté dans la Tfile suivant le principe FIFO. Chaque fois qu’on lit un mémo, il est supprimé de la file Tfile FIFO.
 
 Exemple de mise en œuvre :
 - Les Telts conteniennent une chaine de caractères (256 caractères).
